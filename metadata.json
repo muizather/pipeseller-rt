@@ -1,0 +1,8 @@
+{
+  "name": "The Pipe Seller — Artisan Gallery & Magento Multi-Store POC",
+  "description": "Luxury artisan and estate pipe marketplace storefront proof of concept and Magento 2 multi-store implementation blueprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
